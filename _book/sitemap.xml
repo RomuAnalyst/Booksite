@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://r4ds.hadley.nz/index.html</loc>
+    <lastmod>2023-01-06T13:19:25.996Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r4ds.hadley.nz/posts/TP_manip_visu.html</loc>
+    <lastmod>2023-01-05T21:39:54.989Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r4ds.hadley.nz/R et Posit.html</loc>
+    <lastmod>2023-01-05T19:05:00.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r4ds.hadley.nz/R et Posit2.html</loc>
+    <lastmod>2023-01-05T21:24:07.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r4ds.hadley.nz/blog.html</loc>
+    <lastmod>2023-01-05T21:25:12.256Z</lastmod>
+  </url>
+</urlset>

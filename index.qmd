@@ -1,0 +1,21 @@
+---
+page-layout: full
+header-includes: |
+  <link href="index-styles.css" rel="stylesheet">
+---
+
+::: grid
+::: {#bio-pic .g-col-12 .g-col-md-6}
+![](images/Purple%20tree.png)
+:::
+
+::: {#about-me-text .g-col-12 .g-col-md-6}
+
+
+*Je suis un jeune analyste qui "monte en compétence" sur R.*\
+*Mon diplôme universitaire Dataviz a relancé mon envie de codage et de traitement des données à travers de belles visualisations.*\
+*Après ces quelques mots, ci dessous, les différents travaux réalisés ou en cours...*
+
+*Vous pouvez également me suivre sur* [{{< fa brands twitter >}}](https://twitter.com/Romu_Zam)*,* [{{< fa brands github >}}](https://github.com/RomuAnalyst) *&* [{{< fa brands linkedin >}}](https://www.linkedin.com/in/romuald-zami-293a9031)*.*
+:::
+:::

@@ -1,0 +1,31 @@
+---
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: false
+---
+
+```{r}
+#| echo: false
+#| results: 'hide'
+renv::use(lockfile = "renv.lock")
+```
+
+::: grid
+::: {.g-col-12 .g-col-md-6}
+# {{< fa brands r-project >}} et Posit
+
+##### [Introduction et installation](R et Posit.html)
+
+Présentation, prise en main, en passant par le processus d'installation.
+:::
+:::
+
+## Tous les documents :

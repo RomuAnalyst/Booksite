@@ -1,0 +1,43 @@
+project:
+  type: book
+  output-dir: posts
+
+book:
+  title: "Romuanalyst"
+  reader-mode: true
+  navbar:
+    right:
+      - text: Blog
+        href: blog.qmd 
+  page-navigation: false
+  page-footer:
+    background: secondary
+    left: "{{< fa user-circle >}} 2022 - Romuald ZAMI"
+    center:
+      - text: "<img src='/images/animation_transparent.png' width='auto' height='60px'>"
+    right:
+      - icon: github
+        href: https://github.com/RomuAnalyst
+      - icon: twitter
+        href: https://twitter.com/Romu_Zam
+      - icon: linkedin
+        href: https://www.linkedin.com/in/romuald-zami-293a9031
+
+  favicon: images/Purple tree.png
+
+  chapters:
+    - text: Accueil
+      href: index.qmd
+    - R et Posit2.qmd
+    - TP_manip_visu.qmd
+    
+
+format:
+  html:
+    theme: 
+      light: morph
+      dark: superhero
+    code-link: false
+
+editor: visual
+
