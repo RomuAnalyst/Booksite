@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: posts
+  output-dir: docs
 lang: fr
 
 book:
