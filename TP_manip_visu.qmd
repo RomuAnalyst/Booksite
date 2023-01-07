@@ -1,7 +1,6 @@
 ---
 title: "TP manipulation et visualisation"
 date: '2022-11-14'
-categories: ["Cours", "TP"]
 description: "Première évaluation pour les étudiants de 2ème année de BUT STID (VCOD alternance)."
 page-layout: full
 header-includes: |
@@ -16,7 +15,7 @@ editor_options:
     wrap: 80
 project:
   type: book
-  output-dir: posts
+  output-dir: docs
 ---
 
 ***TP programmation statistique -- R***
