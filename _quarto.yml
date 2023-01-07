@@ -1,6 +1,7 @@
 project:
   type: book
   output-dir: posts
+lang: fr
 
 book:
   title: "Romuanalyst"
